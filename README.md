@@ -1,2 +1,2 @@
 # Nodejs
-code snippets for node projects
+code snippets for jwt authentication
